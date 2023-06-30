@@ -2,4 +2,4 @@
 
 # een aanpassing gemaakt
 
-# In de online repositiry gemaakte aanpassing
+# In de online repository gemaakte aanpassing
